@@ -1,9 +1,9 @@
 Install the following modules before running the programs (Copy and paste these commands)
 
-pip install numpy
-pip install pandas
-pip install scikit-learn
-pip install matplotlib
+pip install numpy \n
+pip install pandas \n
+pip install scikit-learn \n
+pip install matplotlib \n
 
 This repostitory contains the following programs:
 
